@@ -1,0 +1,23 @@
+.photo{
+
+	background: url(Jerry.jpg) ;
+	background-size:100% 100%;
+	width: 20rem;
+	height: 20rem;
+}
+#introduction{
+		width: 20rem;
+	height: 20rem;
+
+}
+#header{
+	background: #dfffba;
+	width: 70%;
+	margin: auto;
+	margin-top: 1rem;
+	padding: 2rem;
+}
+body{
+	background: url(<a href="https://www.freepik.com/free-photos-vectors/school">School photo created by freepik - www.freepik.com</a>) ;
+	background: cover;
+}
